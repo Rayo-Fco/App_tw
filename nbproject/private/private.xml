@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Francisco/Desktop/programacion/Programacion%20JSP/App_tw/web/Si/mensaje.jsp</file>
+            <file>file:/C:/Users/Francisco/Desktop/programacion/Programacion%20JSP/App_tw/web/busqueda.jsp</file>
+            <file>file:/C:/Users/Francisco/Desktop/programacion/Programacion%20JSP/App_tw/src/java/Controlador/Procesar_CargarMensaje.java</file>
+            <file>file:/C:/Users/Francisco/Desktop/programacion/Programacion%20JSP/App_tw/web/body.jsp</file>
+            <file>file:/C:/Users/Francisco/Desktop/programacion/Programacion%20JSP/App_tw/web/No/Perfiles.jsp</file>
+            <file>file:/C:/Users/Francisco/Desktop/programacion/Programacion%20JSP/App_tw/src/java/Ejb/UsuariosFacade.java</file>
+            <file>file:/C:/Users/Francisco/Desktop/programacion/Programacion%20JSP/App_tw/src/java/Controlador/Procesar_Busqueda.java</file>
+            <file>file:/C:/Users/Francisco/Desktop/programacion/Programacion%20JSP/App_tw/web/Si/MiPerfil.jsp</file>
+            <file>file:/C:/Users/Francisco/Desktop/programacion/Programacion%20JSP/App_tw/src/java/Ejb/MensajeFacade.java</file>
+            <file>file:/C:/Users/Francisco/Desktop/programacion/Programacion%20JSP/App_tw/src/java/Controlador/Procesar_Comentario.java</file>
+            <file>file:/C:/Users/Francisco/Desktop/programacion/Programacion%20JSP/App_tw/web/No/home.jsp</file>
+            <file>file:/C:/Users/Francisco/Desktop/programacion/Programacion%20JSP/App_tw/web/registrar.jsp</file>
+            <file>file:/C:/Users/Francisco/Desktop/programacion/Programacion%20JSP/App_tw/web/Si/perfil.jsp</file>
+            <file>file:/C:/Users/Francisco/Desktop/programacion/Programacion%20JSP/App_tw/web/Si/respuesta.jsp</file>
+            <file>file:/C:/Users/Francisco/Desktop/programacion/Programacion%20JSP/App_tw/web/header.jsp</file>
+            <file>file:/C:/Users/Francisco/Desktop/programacion/Programacion%20JSP/App_tw/src/java/Controlador/DejardeSeguir.java</file>
+            <file>file:/C:/Users/Francisco/Desktop/programacion/Programacion%20JSP/App_tw/src/java/Controlador/Procesar_Registro2.java</file>
+            <file>file:/C:/Users/Francisco/Desktop/programacion/Programacion%20JSP/App_tw/web/WEB-INF/glassfish-resources.xml</file>
+            <file>file:/C:/Users/Francisco/Desktop/programacion/Programacion%20JSP/App_tw/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Francisco/Desktop/programacion/Programacion%20JSP/App_tw/src/java/Modelo/Seguidos.java</file>
+            <file>file:/C:/Users/Francisco/Desktop/programacion/Programacion%20JSP/App_tw/src/java/Controlador/Perfil.java</file>
+            <file>file:/C:/Users/Francisco/Desktop/programacion/Programacion%20JSP/App_tw/src/java/Controlador/Procesar_Login.java</file>
+            <file>file:/C:/Users/Francisco/Desktop/programacion/Programacion%20JSP/App_tw/src/java/Controlador/Procesar_Mensaje.java</file>
+            <file>file:/C:/Users/Francisco/Desktop/programacion/Programacion%20JSP/App_tw/web/index.jsp</file>
+            <file>file:/C:/Users/Francisco/Desktop/programacion/Programacion%20JSP/App_tw/web/No/login.jsp</file>
+            <file>file:/C:/Users/Francisco/Desktop/programacion/Programacion%20JSP/App_tw/src/java/Controlador/Procesar_Registro.java</file>
+            <file>file:/C:/Users/Francisco/Desktop/programacion/Programacion%20JSP/App_tw/src/java/Controlador/Seguir.java</file>
+            <file>file:/C:/Users/Francisco/Desktop/programacion/Programacion%20JSP/App_tw/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/Francisco/Desktop/programacion/Programacion%20JSP/App_tw/src/java/Ejb/SeguidosFacade.java</file>
+        </group>
+    </open-files>
+</project-private>
